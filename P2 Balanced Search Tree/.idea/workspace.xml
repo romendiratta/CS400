@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27caa1c1-5f20-42a9-b36e-0eb30cbf39e2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="813678769">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="7236" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7236" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="P2 Balanced Search Tree" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BALST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+              <folding>
+                <element signature="docComment;class#BALST#0" />
+                <element signature="docComment;class#Node#0;class#BALST#0" />
+                <element signature="method#BALST#0;class#BALST#0" />
+                <element signature="docComment;method#getKeyAtRoot#0;class#BALST#0" />
+                <element signature="method#getKeyAtRoot#0;class#BALST#0" />
+                <element signature="docComment;method#getKeyOfLeftChildOf#0;class#BALST#0" />
+                <element signature="method#getKeyOfLeftChildOf#0;class#BALST#0" />
+                <element signature="docComment;method#getKeyOfRightChildOf#0;class#BALST#0" />
+                <element signature="method#getKeyOfRightChildOf#0;class#BALST#0" />
+                <element signature="docComment;method#getHeight#0;class#BALST#0" />
+                <element signature="docComment;method#getHeight#1;class#BALST#0" />
+                <element signature="method#getHeight#1;class#BALST#0" />
+                <element signature="docComment;method#getInOrderTraversal#0;class#BALST#0" />
+                <element signature="method#getInOrderTraversal#0;class#BALST#0" />
+                <element signature="docComment;method#getPreOrderTraversal#0;class#BALST#0" />
+                <element signature="method#getPreOrderTraversal#0;class#BALST#0" />
+                <element signature="docComment;method#getPostOrderTraversal#0;class#BALST#0" />
+                <element signature="method#getPostOrderTraversal#0;class#BALST#0" />
+                <element signature="docComment;method#getLevelOrderTraversal#0;class#BALST#0" />
+                <element signature="method#getLevelOrderTraversal#0;class#BALST#0" />
+                <element signature="docComment;method#insert#0;class#BALST#0" />
+                <element signature="method#insert#0;class#BALST#0" />
+                <element signature="docComment;method#insertHelper#0;class#BALST#0" />
+                <element signature="method#insertHelper#0;class#BALST#0" />
+                <element signature="docComment;method#getBalanceValue#0;class#BALST#0" />
+                <element signature="method#getBalanceValue#0;class#BALST#0" />
+                <element signature="docComment;method#leftRotation#0;class#BALST#0" />
+                <element signature="method#leftRotation#0;class#BALST#0" />
+                <element signature="docComment;method#rightRotation#0;class#BALST#0" />
+                <element signature="method#rightRotation#0;class#BALST#0" />
+                <element signature="docComment;method#remove#0;class#BALST#0" />
+                <element signature="method#remove#0;class#BALST#0" />
+                <element signature="docComment;method#removeHelper#0;class#BALST#0" />
+                <element signature="method#removeHelper#0;class#BALST#0" />
+                <element signature="method#getInOrderSuccessor#0;class#BALST#0" />
+                <element signature="docComment;method#get#0;class#BALST#0" />
+                <element signature="method#get#0;class#BALST#0" />
+                <element signature="docComment;method#contains#0;class#BALST#0" />
+                <element signature="method#contains#0;class#BALST#0" />
+                <element signature="docComment;method#numKeys#0;class#BALST#0" />
+                <element signature="docComment;method#print#0;class#BALST#0" />
+                <element signature="docComment;method#printHelper#0;class#BALST#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BALSTADT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2499">
+              <caret line="147" column="18" selection-start-line="147" selection-start-column="18" selection-end-line="147" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/BALSTTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2397">
+              <caret line="338" column="5" selection-start-line="338" selection-start-column="5" selection-end-line="338" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;method#testBALST_001_insert_sorted_order_simple#0;class#BALSTTest#0" />
+                <element signature="method#testBALST_001_insert_sorted_order_simple#0;class#BALSTTest#0" />
+                <element signature="docComment;method#testBALST_002_insert_reversed_sorted_order_simple#0;class#BALSTTest#0" />
+                <element signature="method#testBALST_002_insert_reversed_sorted_order_simple#0;class#BALSTTest#0" />
+                <element signature="docComment;method#testBALST_003_insert_smallest_largest_middle_order_simple#0;class#BALSTTest#0" />
+                <element signature="method#testBALST_003_insert_smallest_largest_middle_order_simple#0;class#BALSTTest#0" />
+                <element signature="docComment;method#testBALST_004_insert_largest_smallest_middle_order_simple#0;class#BALSTTest#0" />
+                <element signature="method#testBALST_004_insert_largest_smallest_middle_order_simple#0;class#BALSTTest#0" />
+                <element signature="method#testBALST_005_insert_5_elements_in_sorted_order#0;class#BALSTTest#0" />
+                <element signature="method#testBALST_007_check_get_integer#0;class#BALSTTest#0" />
+                <element signature="docComment;method#testBALST_008_check_get_string#0;class#BALSTTest#0" />
+                <element signature="method#testBALST_008_check_get_string#0;class#BALSTTest#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/GitHub/RESTful Web Service/gs-rest-service/complete" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/BALST.java" />
+        <option value="$PROJECT_DIR$/src/BALSTTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="width" value="3235" />
+    <option name="height" value="1735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="P2 Balanced Search Tree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P2 Balanced Search Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="P2 Balanced Search Tree" type="b2602c69:ProjectViewProjectNode" />
+              <item name="P2 Balanced Search Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570845047317" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/junit-platform-console-standalone-1.3.2.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BALSTTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="P2 Balanced Search Tree" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BALSTTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BALSTTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27caa1c1-5f20-42a9-b36e-0eb30cbf39e2" name="Default Changelist" comment="" />
+      <created>1570594435106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570594435106</updated>
+      <workItem from="1570594440999" duration="9189000" />
+      <workItem from="1570822098836" duration="11262000" />
+      <workItem from="1570899011535" duration="599000" />
+      <workItem from="1571332049611" duration="640000" />
+      <workItem from="1571687517531" duration="46000" />
+      <workItem from="1571860888007" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BALSTTest - 2019.10.11 at 16h 58m 53s.xml">
+      <configuration name="BALSTTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BALSTTest - 2019.10.11 at 17h 00m 37s.xml">
+      <configuration name="BALSTTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BALSTTest - 2019.10.11 at 17h 00m 56s.xml">
+      <configuration name="BALSTTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BALSTTest - 2019.10.11 at 17h 05m 17s.xml">
+      <configuration name="BALSTTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BALSTTest - 2019.10.11 at 19h 56m 01s.xml">
+      <configuration name="BALSTTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BALSTTest - 2019.10.11 at 19h 56m 38s.xml">
+      <configuration name="BALSTTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BALSTTest - 2019.10.11 at 19h 57m 49s.xml">
+      <configuration name="BALSTTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BALSTTest - 2019.10.11 at 20h 02m 52s.xml">
+      <configuration name="BALSTTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BALSTTest - 2019.10.11 at 20h 10m 42s.xml">
+      <configuration name="BALSTTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BALSTTest - 2019.10.11 at 20h 50m 06s.xml">
+      <configuration name="BALSTTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21809000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48932385" visible="true" weight="0.27125505" />
+      <window_info id="Structure" order="1" sideWeight="0.51067615" side_tool="true" visible="true" weight="0.27125505" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5017794" side_tool="true" weight="0.24939272" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291815" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.13345195" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39679715" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291815" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3291815" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/BSTNode.java" />
+    <entry file="file://$USER_HOME$/Desktop/BST.java" />
+    <entry file="file://$PROJECT_DIR$/src/BALST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+          <folding>
+            <element signature="docComment;class#BALST#0" />
+            <element signature="docComment;class#Node#0;class#BALST#0" />
+            <element signature="method#BALST#0;class#BALST#0" />
+            <element signature="docComment;method#getKeyAtRoot#0;class#BALST#0" />
+            <element signature="method#getKeyAtRoot#0;class#BALST#0" />
+            <element signature="docComment;method#getKeyOfLeftChildOf#0;class#BALST#0" />
+            <element signature="method#getKeyOfLeftChildOf#0;class#BALST#0" />
+            <element signature="docComment;method#getKeyOfRightChildOf#0;class#BALST#0" />
+            <element signature="method#getKeyOfRightChildOf#0;class#BALST#0" />
+            <element signature="docComment;method#getHeight#0;class#BALST#0" />
+            <element signature="docComment;method#getHeight#1;class#BALST#0" />
+            <element signature="method#getHeight#1;class#BALST#0" />
+            <element signature="docComment;method#getInOrderTraversal#0;class#BALST#0" />
+            <element signature="method#getInOrderTraversal#0;class#BALST#0" />
+            <element signature="docComment;method#getPreOrderTraversal#0;class#BALST#0" />
+            <element signature="method#getPreOrderTraversal#0;class#BALST#0" />
+            <element signature="docComment;method#getPostOrderTraversal#0;class#BALST#0" />
+            <element signature="method#getPostOrderTraversal#0;class#BALST#0" />
+            <element signature="docComment;method#getLevelOrderTraversal#0;class#BALST#0" />
+            <element signature="method#getLevelOrderTraversal#0;class#BALST#0" />
+            <element signature="docComment;method#insert#0;class#BALST#0" />
+            <element signature="method#insert#0;class#BALST#0" />
+            <element signature="docComment;method#insertHelper#0;class#BALST#0" />
+            <element signature="method#insertHelper#0;class#BALST#0" />
+            <element signature="docComment;method#getBalanceValue#0;class#BALST#0" />
+            <element signature="method#getBalanceValue#0;class#BALST#0" />
+            <element signature="docComment;method#leftRotation#0;class#BALST#0" />
+            <element signature="method#leftRotation#0;class#BALST#0" />
+            <element signature="docComment;method#rightRotation#0;class#BALST#0" />
+            <element signature="method#rightRotation#0;class#BALST#0" />
+            <element signature="docComment;method#remove#0;class#BALST#0" />
+            <element signature="method#remove#0;class#BALST#0" />
+            <element signature="docComment;method#removeHelper#0;class#BALST#0" />
+            <element signature="method#removeHelper#0;class#BALST#0" />
+            <element signature="method#getInOrderSuccessor#0;class#BALST#0" />
+            <element signature="docComment;method#get#0;class#BALST#0" />
+            <element signature="method#get#0;class#BALST#0" />
+            <element signature="docComment;method#contains#0;class#BALST#0" />
+            <element signature="method#contains#0;class#BALST#0" />
+            <element signature="docComment;method#numKeys#0;class#BALST#0" />
+            <element signature="docComment;method#print#0;class#BALST#0" />
+            <element signature="docComment;method#printHelper#0;class#BALST#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BALSTADT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2499">
+          <caret line="147" column="18" selection-start-line="147" selection-start-column="18" selection-end-line="147" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BALSTTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2397">
+          <caret line="338" column="5" selection-start-line="338" selection-start-column="5" selection-end-line="338" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;method#testBALST_001_insert_sorted_order_simple#0;class#BALSTTest#0" />
+            <element signature="method#testBALST_001_insert_sorted_order_simple#0;class#BALSTTest#0" />
+            <element signature="docComment;method#testBALST_002_insert_reversed_sorted_order_simple#0;class#BALSTTest#0" />
+            <element signature="method#testBALST_002_insert_reversed_sorted_order_simple#0;class#BALSTTest#0" />
+            <element signature="docComment;method#testBALST_003_insert_smallest_largest_middle_order_simple#0;class#BALSTTest#0" />
+            <element signature="method#testBALST_003_insert_smallest_largest_middle_order_simple#0;class#BALSTTest#0" />
+            <element signature="docComment;method#testBALST_004_insert_largest_smallest_middle_order_simple#0;class#BALSTTest#0" />
+            <element signature="method#testBALST_004_insert_largest_smallest_middle_order_simple#0;class#BALSTTest#0" />
+            <element signature="method#testBALST_005_insert_5_elements_in_sorted_order#0;class#BALSTTest#0" />
+            <element signature="method#testBALST_007_check_get_integer#0;class#BALSTTest#0" />
+            <element signature="docComment;method#testBALST_008_check_get_string#0;class#BALSTTest#0" />
+            <element signature="method#testBALST_008_check_get_string#0;class#BALSTTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>JDK 11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>P2 Balanced Search Tree</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-platform-console-standalone-1.3.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
